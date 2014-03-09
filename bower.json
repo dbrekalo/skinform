@@ -1,0 +1,28 @@
+{
+  "name": "skinform",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbrekalo/skinform",
+  "authors": [
+    "Damir Brekalo <dbrekalo@gmail.com>"
+  ],
+  "description": "Plugin for skinning form elements (select, checkbox, radio, input file)",
+  "main": "dist/skinform.min.js",
+  "keywords": [
+    "skinform",
+    "select",
+    "checkbox",
+    "radio",
+    "fileinput"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
